@@ -1,0 +1,34 @@
+
+.contact img {
+	display: block;
+	margin: 70px auto 37px;
+	padding: 0;
+	width: auto;
+}
+.contact h2 {
+	font-weight: bold;
+	margin: 0 auto 18px;
+	text-transform: uppercase;
+}
+contact h4 {
+	background: url(../images/bg-border1.gif) no-repeat center bottom;
+	color: #FFFFFF;
+	font-family: 'Arial Black';
+	font-size: 30px;
+	font-weight: normal;
+	line-height: 30px;
+	margin: 0;
+	padding: 14px 0 29px;
+	text-align: center;
+	text-transform: uppercase;
+}
+img {
+	display: block;
+	margin: 68px auto 47px;
+	padding: 0;
+	width: auto;
+}
+
+
+
+
